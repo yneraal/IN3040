@@ -1,0 +1,11 @@
+size(64*64)
+let i = 5
+let j = 3
+start(23,6)
+north (* 3 i)
+east 15
+south (- 12 i j)
+west (+ (* 2 i) (* 3 j) 1)
+stop
+
+// Result should be: 18, 17

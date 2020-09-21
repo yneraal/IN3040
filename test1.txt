@@ -1,0 +1,9 @@
+size(64*64)
+start(23,30)
+west 15
+south 15
+east (+ 2 3)
+north (+ 17 20)
+stop
+
+// Result should be: 13, 52

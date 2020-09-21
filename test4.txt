@@ -1,0 +1,8 @@
+size(64*64)
+let i = 8 start(1,1)
+do {
+    north i
+} until (> i 100)
+stop
+
+// Result should be: out of grid bounds error

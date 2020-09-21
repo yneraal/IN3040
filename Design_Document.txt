@@ -1,0 +1,19 @@
+Mandatory 1 Design Document
+
+* Why it is implemented as it is *
+
+
+
+* How to run the code from command line *
+
+
+
+
+
+** TODO
+* Lookup: abstract class, java interpreter, organizing a java program, AST,
+    protected identifier,
+* Draw class tree
+
+* Interpreter code for Robot
+* Interpreter code for statements (loop + assignment)
